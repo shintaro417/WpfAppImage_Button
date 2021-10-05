@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppImage_Button", "WpfAppImage_Button\WpfAppImage_Button.csproj", "{2A8DA6D8-6A40-4D0D-B02D-5374A3D9E9BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8DA6D8-6A40-4D0D-B02D-5374A3D9E9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8DA6D8-6A40-4D0D-B02D-5374A3D9E9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8DA6D8-6A40-4D0D-B02D-5374A3D9E9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8DA6D8-6A40-4D0D-B02D-5374A3D9E9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC2EA1E5-D3F1-44CF-AA54-3F4D39DA94AE}
+	EndGlobalSection
+EndGlobal
